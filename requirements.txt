@@ -5,3 +5,4 @@ openpyxl
 langchain
 langchain_experimental
 langchain_openai
+xlrd >= 2.0.1
